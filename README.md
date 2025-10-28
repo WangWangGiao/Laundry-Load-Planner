@@ -3,6 +3,7 @@
 SPINPRO is an application that is developed by flutter, and this application allows users to quickly and efficiently calculate the number of loads, total water used, and total time required by inputting the number of clothes, washing machine capacity, and selecting the wash cycle type. Users can access this application anytime and anywhere when they want to do laundry.
 
 Input
+
 •	TextField (Number of Clothes) – User needs to input the number into the text field.
 
 •	TextField (Washing Machine Capacity) – User needs to input the number into the text field.
@@ -10,6 +11,7 @@ Input
 •	DropdownButton (Wash Cycle Type) – User needs to select the type based on their demands.
 
 Process
+
 •	Number of Loads = Number of Clothes / Washing Machine Capacity
 
 •	Wash Cycle Type (Normal)
@@ -37,7 +39,7 @@ Output
 •	Total Water Used
 
 •	Total Time Used
- 
+
 Widget List Used
 
 •	MaterialApp
